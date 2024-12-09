@@ -1,0 +1,259 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Kodlama\\Course-Diaries\\Infotech-Diaries\\12.hafta\\09_12_24\\PartyApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4BD5A49A-432A-4B48-9515-BF3782FD6C69}|PartyApp.MVC\\PartyApp.MVC.csproj|d:\\kodlama\\course-diaries\\infotech-diaries\\12.hafta\\09_12_24\\partyapp\\partyapp.mvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BD5A49A-432A-4B48-9515-BF3782FD6C69}|PartyApp.MVC\\PartyApp.MVC.csproj|solutionrelative:partyapp.mvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BD5A49A-432A-4B48-9515-BF3782FD6C69}|PartyApp.MVC\\PartyApp.MVC.csproj|D:\\Kodlama\\Course-Diaries\\Infotech-Diaries\\12.hafta\\09_12_24\\PartyApp\\partyapp.mvc\\views\\home\\join.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4BD5A49A-432A-4B48-9515-BF3782FD6C69}|PartyApp.MVC\\PartyApp.MVC.csproj|solutionrelative:partyapp.mvc\\views\\home\\join.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DC4029E-42F0-4C46-B587-22E0AD71E56A}|PartyApp.Shared\\PartyApp.Shared.csproj|D:\\Kodlama\\Course-Diaries\\Infotech-Diaries\\12.hafta\\09_12_24\\PartyApp\\partyapp.shared\\viewmodels\\joinviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DC4029E-42F0-4C46-B587-22E0AD71E56A}|PartyApp.Shared\\PartyApp.Shared.csproj|solutionrelative:partyapp.shared\\viewmodels\\joinviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DC4029E-42F0-4C46-B587-22E0AD71E56A}|PartyApp.Shared\\PartyApp.Shared.csproj|d:\\kodlama\\course-diaries\\infotech-diaries\\12.hafta\\09_12_24\\partyapp\\partyapp.shared\\viewmodels\\addparticipantviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DC4029E-42F0-4C46-B587-22E0AD71E56A}|PartyApp.Shared\\PartyApp.Shared.csproj|solutionrelative:partyapp.shared\\viewmodels\\addparticipantviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DC4029E-42F0-4C46-B587-22E0AD71E56A}|PartyApp.Shared\\PartyApp.Shared.csproj|D:\\Kodlama\\Course-Diaries\\Infotech-Diaries\\12.hafta\\09_12_24\\PartyApp\\partyapp.shared\\viewmodels\\invitationviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DC4029E-42F0-4C46-B587-22E0AD71E56A}|PartyApp.Shared\\PartyApp.Shared.csproj|solutionrelative:partyapp.shared\\viewmodels\\invitationviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DC4029E-42F0-4C46-B587-22E0AD71E56A}|PartyApp.Shared\\PartyApp.Shared.csproj|D:\\Kodlama\\Course-Diaries\\Infotech-Diaries\\12.hafta\\09_12_24\\PartyApp\\partyapp.shared\\viewmodels\\participantviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DC4029E-42F0-4C46-B587-22E0AD71E56A}|PartyApp.Shared\\PartyApp.Shared.csproj|solutionrelative:partyapp.shared\\viewmodels\\participantviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BD5A49A-432A-4B48-9515-BF3782FD6C69}|PartyApp.MVC\\PartyApp.MVC.csproj|d:\\kodlama\\course-diaries\\infotech-diaries\\12.hafta\\09_12_24\\partyapp\\partyapp.mvc\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4BD5A49A-432A-4B48-9515-BF3782FD6C69}|PartyApp.MVC\\PartyApp.MVC.csproj|solutionrelative:partyapp.mvc\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BD5A49A-432A-4B48-9515-BF3782FD6C69}|PartyApp.MVC\\PartyApp.MVC.csproj|D:\\Kodlama\\Course-Diaries\\Infotech-Diaries\\12.hafta\\09_12_24\\PartyApp\\partyapp.mvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4BD5A49A-432A-4B48-9515-BF3782FD6C69}|PartyApp.MVC\\PartyApp.MVC.csproj|solutionrelative:partyapp.mvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{585EED85-53A2-487F-99EF-31D26D42A037}|PartyApp.Business\\PartyApp.Business.csproj|D:\\Kodlama\\Course-Diaries\\Infotech-Diaries\\12.hafta\\09_12_24\\PartyApp\\partyapp.business\\concrete\\participantsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{585EED85-53A2-487F-99EF-31D26D42A037}|PartyApp.Business\\PartyApp.Business.csproj|solutionrelative:partyapp.business\\concrete\\participantsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{585EED85-53A2-487F-99EF-31D26D42A037}|PartyApp.Business\\PartyApp.Business.csproj|D:\\Kodlama\\Course-Diaries\\Infotech-Diaries\\12.hafta\\09_12_24\\PartyApp\\partyapp.business\\concrete\\invitationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{585EED85-53A2-487F-99EF-31D26D42A037}|PartyApp.Business\\PartyApp.Business.csproj|solutionrelative:partyapp.business\\concrete\\invitationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D8C8744-73F3-4C34-9533-73A50BF7B19C}|PartyApp.Data\\PartyApp.Data.csproj|D:\\Kodlama\\Course-Diaries\\Infotech-Diaries\\12.hafta\\09_12_24\\PartyApp\\partyapp.data\\concrete\\repositories\\participantrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D8C8744-73F3-4C34-9533-73A50BF7B19C}|PartyApp.Data\\PartyApp.Data.csproj|solutionrelative:partyapp.data\\concrete\\repositories\\participantrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D8C8744-73F3-4C34-9533-73A50BF7B19C}|PartyApp.Data\\PartyApp.Data.csproj|D:\\Kodlama\\Course-Diaries\\Infotech-Diaries\\12.hafta\\09_12_24\\PartyApp\\partyapp.data\\concrete\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D8C8744-73F3-4C34-9533-73A50BF7B19C}|PartyApp.Data\\PartyApp.Data.csproj|solutionrelative:partyapp.data\\concrete\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D8C8744-73F3-4C34-9533-73A50BF7B19C}|PartyApp.Data\\PartyApp.Data.csproj|D:\\Kodlama\\Course-Diaries\\Infotech-Diaries\\12.hafta\\09_12_24\\PartyApp\\partyapp.data\\concrete\\repositories\\invitationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D8C8744-73F3-4C34-9533-73A50BF7B19C}|PartyApp.Data\\PartyApp.Data.csproj|solutionrelative:partyapp.data\\concrete\\repositories\\invitationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BD5A49A-432A-4B48-9515-BF3782FD6C69}|PartyApp.MVC\\PartyApp.MVC.csproj|D:\\Kodlama\\Course-Diaries\\Infotech-Diaries\\12.hafta\\09_12_24\\PartyApp\\partyapp.mvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BD5A49A-432A-4B48-9515-BF3782FD6C69}|PartyApp.MVC\\PartyApp.MVC.csproj|solutionrelative:partyapp.mvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 13,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AddParticipantViewModel.cs",
+              "DocumentMoniker": "D:\\Kodlama\\Course-Diaries\\Infotech-Diaries\\12.hafta\\09_12_24\\PartyApp\\PartyApp.Shared\\ViewModels\\AddParticipantViewModel.cs",
+              "RelativeDocumentMoniker": "PartyApp.Shared\\ViewModels\\AddParticipantViewModel.cs",
+              "ToolTip": "D:\\Kodlama\\Course-Diaries\\Infotech-Diaries\\12.hafta\\09_12_24\\PartyApp\\PartyApp.Shared\\ViewModels\\AddParticipantViewModel.cs",
+              "RelativeToolTip": "PartyApp.Shared\\ViewModels\\AddParticipantViewModel.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAwwBAAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T10:36:15.147Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "D:\\Kodlama\\Course-Diaries\\Infotech-Diaries\\12.hafta\\09_12_24\\PartyApp\\PartyApp.MVC\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "PartyApp.MVC\\Views\\_ViewImports.cshtml",
+              "ToolTip": "D:\\Kodlama\\Course-Diaries\\Infotech-Diaries\\12.hafta\\09_12_24\\PartyApp\\PartyApp.MVC\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "PartyApp.MVC\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-09T10:34:31.014Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "JoinViewModel.cs",
+              "DocumentMoniker": "D:\\Kodlama\\Course-Diaries\\Infotech-Diaries\\12.hafta\\09_12_24\\PartyApp\\PartyApp.Shared\\ViewModels\\JoinViewModel.cs",
+              "RelativeDocumentMoniker": "PartyApp.Shared\\ViewModels\\JoinViewModel.cs",
+              "ToolTip": "D:\\Kodlama\\Course-Diaries\\Infotech-Diaries\\12.hafta\\09_12_24\\PartyApp\\PartyApp.Shared\\ViewModels\\JoinViewModel.cs",
+              "RelativeToolTip": "PartyApp.Shared\\ViewModels\\JoinViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwA0AAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T08:50:16.422Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Kodlama\\Course-Diaries\\Infotech-Diaries\\12.hafta\\09_12_24\\PartyApp\\PartyApp.MVC\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "PartyApp.MVC\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\Kodlama\\Course-Diaries\\Infotech-Diaries\\12.hafta\\09_12_24\\PartyApp\\PartyApp.MVC\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "PartyApp.MVC\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-09T10:21:12.85Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "InvitationViewModel.cs",
+              "DocumentMoniker": "D:\\Kodlama\\Course-Diaries\\Infotech-Diaries\\12.hafta\\09_12_24\\PartyApp\\PartyApp.Shared\\ViewModels\\InvitationViewModel.cs",
+              "RelativeDocumentMoniker": "PartyApp.Shared\\ViewModels\\InvitationViewModel.cs",
+              "ToolTip": "D:\\Kodlama\\Course-Diaries\\Infotech-Diaries\\12.hafta\\09_12_24\\PartyApp\\PartyApp.Shared\\ViewModels\\InvitationViewModel.cs",
+              "RelativeToolTip": "PartyApp.Shared\\ViewModels\\InvitationViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T09:58:19.448Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "InvitationRepository.cs",
+              "DocumentMoniker": "D:\\Kodlama\\Course-Diaries\\Infotech-Diaries\\12.hafta\\09_12_24\\PartyApp\\PartyApp.Data\\Concrete\\Repositories\\InvitationRepository.cs",
+              "RelativeDocumentMoniker": "PartyApp.Data\\Concrete\\Repositories\\InvitationRepository.cs",
+              "ToolTip": "D:\\Kodlama\\Course-Diaries\\Infotech-Diaries\\12.hafta\\09_12_24\\PartyApp\\PartyApp.Data\\Concrete\\Repositories\\InvitationRepository.cs",
+              "RelativeToolTip": "PartyApp.Data\\Concrete\\Repositories\\InvitationRepository.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAlwBwAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T09:54:07.882Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "D:\\Kodlama\\Course-Diaries\\Infotech-Diaries\\12.hafta\\09_12_24\\PartyApp\\PartyApp.Data\\Concrete\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "PartyApp.Data\\Concrete\\AppDbContext.cs",
+              "ToolTip": "D:\\Kodlama\\Course-Diaries\\Infotech-Diaries\\12.hafta\\09_12_24\\PartyApp\\PartyApp.Data\\Concrete\\AppDbContext.cs",
+              "RelativeToolTip": "PartyApp.Data\\Concrete\\AppDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T09:53:23.724Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ParticipantRepository.cs",
+              "DocumentMoniker": "D:\\Kodlama\\Course-Diaries\\Infotech-Diaries\\12.hafta\\09_12_24\\PartyApp\\PartyApp.Data\\Concrete\\Repositories\\ParticipantRepository.cs",
+              "RelativeDocumentMoniker": "PartyApp.Data\\Concrete\\Repositories\\ParticipantRepository.cs",
+              "ToolTip": "D:\\Kodlama\\Course-Diaries\\Infotech-Diaries\\12.hafta\\09_12_24\\PartyApp\\PartyApp.Data\\Concrete\\Repositories\\ParticipantRepository.cs",
+              "RelativeToolTip": "PartyApp.Data\\Concrete\\Repositories\\ParticipantRepository.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAtwCgAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T09:03:59.967Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Join.cshtml",
+              "DocumentMoniker": "D:\\Kodlama\\Course-Diaries\\Infotech-Diaries\\12.hafta\\09_12_24\\PartyApp\\PartyApp.MVC\\Views\\Home\\Join.cshtml",
+              "RelativeDocumentMoniker": "PartyApp.MVC\\Views\\Home\\Join.cshtml",
+              "ToolTip": "D:\\Kodlama\\Course-Diaries\\Infotech-Diaries\\12.hafta\\09_12_24\\PartyApp\\PartyApp.MVC\\Views\\Home\\Join.cshtml",
+              "RelativeToolTip": "PartyApp.MVC\\Views\\Home\\Join.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-09T08:56:22.58Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "InvitationService.cs",
+              "DocumentMoniker": "D:\\Kodlama\\Course-Diaries\\Infotech-Diaries\\12.hafta\\09_12_24\\PartyApp\\PartyApp.Business\\Concrete\\InvitationService.cs",
+              "RelativeDocumentMoniker": "PartyApp.Business\\Concrete\\InvitationService.cs",
+              "ToolTip": "D:\\Kodlama\\Course-Diaries\\Infotech-Diaries\\12.hafta\\09_12_24\\PartyApp\\PartyApp.Business\\Concrete\\InvitationService.cs",
+              "RelativeToolTip": "PartyApp.Business\\Concrete\\InvitationService.cs",
+              "ViewState": "AQIAADQAAAAAAAAAAAAlwEUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T08:10:51.502Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Kodlama\\Course-Diaries\\Infotech-Diaries\\12.hafta\\09_12_24\\PartyApp\\PartyApp.MVC\\Program.cs",
+              "RelativeDocumentMoniker": "PartyApp.MVC\\Program.cs",
+              "ToolTip": "D:\\Kodlama\\Course-Diaries\\Infotech-Diaries\\12.hafta\\09_12_24\\PartyApp\\PartyApp.MVC\\Program.cs",
+              "RelativeToolTip": "PartyApp.MVC\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T07:55:54.265Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\Kodlama\\Course-Diaries\\Infotech-Diaries\\12.hafta\\09_12_24\\PartyApp\\PartyApp.MVC\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "PartyApp.MVC\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\Kodlama\\Course-Diaries\\Infotech-Diaries\\12.hafta\\09_12_24\\PartyApp\\PartyApp.MVC\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "PartyApp.MVC\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAADQAAAAAAAAAAAAIwD8AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T07:48:24.454Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ParticipantsService.cs",
+              "DocumentMoniker": "D:\\Kodlama\\Course-Diaries\\Infotech-Diaries\\12.hafta\\09_12_24\\PartyApp\\PartyApp.Business\\Concrete\\ParticipantsService.cs",
+              "RelativeDocumentMoniker": "PartyApp.Business\\Concrete\\ParticipantsService.cs",
+              "ToolTip": "D:\\Kodlama\\Course-Diaries\\Infotech-Diaries\\12.hafta\\09_12_24\\PartyApp\\PartyApp.Business\\Concrete\\ParticipantsService.cs",
+              "RelativeToolTip": "PartyApp.Business\\Concrete\\ParticipantsService.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAlwBoAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T07:25:20.077Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ParticipantViewModel.cs",
+              "DocumentMoniker": "D:\\Kodlama\\Course-Diaries\\Infotech-Diaries\\12.hafta\\09_12_24\\PartyApp\\PartyApp.Shared\\ViewModels\\ParticipantViewModel.cs",
+              "RelativeDocumentMoniker": "PartyApp.Shared\\ViewModels\\ParticipantViewModel.cs",
+              "ToolTip": "D:\\Kodlama\\Course-Diaries\\Infotech-Diaries\\12.hafta\\09_12_24\\PartyApp\\PartyApp.Shared\\ViewModels\\ParticipantViewModel.cs",
+              "RelativeToolTip": "PartyApp.Shared\\ViewModels\\ParticipantViewModel.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAAAB8AAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T07:51:21.611Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
